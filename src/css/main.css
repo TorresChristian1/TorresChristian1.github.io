@@ -2,4 +2,27 @@
     margin: 0 auto;
     padding: 0;
     border: 0;
+    box-sizing: border-box;
+}
+
+.temptext{
+    color: red;
+}
+
+#skillsSection{
+    font-size: 1rem;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    color: lightgreen
+}
+#skillsSection ul #htmlLogo{
+    color: orangered;
+}
+
+#skillsSection ul #cssLogo{
+ color: blue;
+}
+
+#skillsSection ul #jsLogo{
+ color: rgb(202, 202, 37);
 }

@@ -1,1 +1,1 @@
-alert('I am connected to the index.html file');
+// alert('I am connected to the index.html file');
