@@ -14,3 +14,9 @@
 - I added a few sections into index.html file.
 - I did a full html overwrite on margin, padding, and border of the html file, and each section with some with id and classes.
 - I commented out the alert function in the script.js file.
+
+## Build 0.0.3
+
+- rearranged the section id's to be in the correct order.
+
+- the class temptext added numbers to make color coordination for each section on the index html.
