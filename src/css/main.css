@@ -5,9 +5,18 @@
     box-sizing: border-box;
 }
 
-.temptext{
+.temptext1{
     color: red;
 }
+
+.temptext2 {
+    color: yellow;
+}
+
+.temptext3 {
+   color: green;
+}
+
 
 #skillsSection{
     font-size: 1rem;
