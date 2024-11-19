@@ -18,5 +18,11 @@
 ## Build 0.0.3
 
 - rearranged the section id's to be in the correct order.
-
 - the class temptext added numbers to make color coordination for each section on the index html.
+
+## Build 0.0.4
+
+- added two headers and paragraphs  with a class of infoArea and no styling this build.
+- only added a * selector and did background color of the site to slategray in main css.
+- removed the space on Build 0.0.3 section in README.md file.
+- cloned repo into secondary computer to write code no internet at my house and house flooded no internet on primary computer.git 
