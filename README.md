@@ -26,3 +26,7 @@
 - only added a * selector and did background color of the site to slategray in main css.
 - removed the space on Build 0.0.3 section in README.md file.
 - cloned repo into secondary computer to write code no internet at my house and house flooded no internet on primary computer.git 
+
+## Build 0.0.5 
+- small change and the change was adding a sentence.
+- gonna hold off on build until I can get sizzy back to work on desktop while also working on optimize mobile version of the site to ensure it looks presentable on the go also.
